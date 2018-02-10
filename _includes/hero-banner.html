@@ -1,0 +1,15 @@
+<section  class="hero-banner">
+  {% if page.paragraph %}
+  <img class="hero-banner-image"
+  src="page.hero-banner.paragraph" alt="">
+  {% else %}
+    <div class="navy-bg hero-banner-bg"></div>
+    {% endif %}
+
+
+{% if page.hero-banner.paragraph %}
+   <p class="hero-banner-paragraph">
+     {{ page.hero-banner.paragraph }}
+  </p>
+  {% endif %}
+</section>

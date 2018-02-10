@@ -1,0 +1,12 @@
+{% for project in page.projects %}
+<section class="project-section">
+  <div>
+    <h1>{{ project.title }}</h1>
+    <p>{{ project.paragraph }}</p>
+  </div>
+  <div>
+    <img src="{{ project.image }}">
+  </div>
+</section>
+
+{% endfor %}
