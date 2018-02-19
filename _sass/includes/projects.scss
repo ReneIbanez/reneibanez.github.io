@@ -1,6 +1,7 @@
 .project-section{
   width: 100%;
   float: left;
+  height: 279px;
   &:nth-of-type(odd){
     div {
       float: right;
@@ -9,7 +10,7 @@
   }
   div{
     width: 50%;
-    height: 330px;
+    height: auto;
     margin: 0 auto;
     display: inline-block;
     float: left;
@@ -25,6 +26,8 @@
       width: 100%;
       float: left;
       color: #4c68ab;
+      text-decoration: underline;
+      text-decoration-color: white;
       padding-bottom: 2%;
       padding-top: 5%;
       padding-left: 29%;
