@@ -21,6 +21,6 @@ projects:
       paragraph: Using jQuery and following best practices of Object Oriented Programming, I developed this interactive beat machine that uses the computer keyboard to mimic the user experience of a MPC beat machine.
     - image: /assets/img/snake-game.png
       title: Snake Game
-      paragraph: Using javascript and further doing smart shit.
+      paragraph: Using Javascript to create an interactive game where you play the snake and you grow by creating collisions between the snake and the food
 
 ---   
