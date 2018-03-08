@@ -5,14 +5,15 @@
   display: flex;
   .inner-section{
     width: 50%;
-    display: inline-block;
-    float: left;
+    
+
 
   }
   img{
-    width: 100%;
+    width: 20%;
     height: auto;
-
+    border-radius: 130px;
+    display: block;
   }
   h1{
     font-size: 40px;
