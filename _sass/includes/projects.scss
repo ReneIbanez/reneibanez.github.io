@@ -1,7 +1,6 @@
 .project-section{
-  width: 100%;
-  float: left;
-  height: auto;
+
+
   &:nth-of-type(odd){
     div {
       float: right;
@@ -9,30 +8,17 @@
     }
   }
   div{
-    width: 50%;
-    height: 335px;
-    margin: 0 auto;
-    display: inline-block;
-    background-color: #4d69ab;
-    float: left;
-    // background: #777777;
+
 
 
 
   }
     h1{
-      height: auto;
-      display: inline-block;
-      margin: 0 auto;
-      width: 100%;
-      float: left;
-      color: #b1b1b1;
-      text-align: center;
-      text-decoration: underline;
-      text-decoration-color: #8c9cf3;
+
+
     }
     p{
-      color: #b1b1b1;
+      color: black;
       font-size: 20px;
       text-align: center;
       padding: 14px 60px;
